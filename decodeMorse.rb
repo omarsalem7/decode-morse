@@ -39,3 +39,11 @@ def decode_word(word)
     return res
 end
 
+def decode(message)
+    res=''
+    message.split('   ').each do |w|
+        res=res.concat(decode_word(w)+' ')
+    end
+    res.strip!
+   return res
+end
