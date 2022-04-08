@@ -30,3 +30,12 @@ MORSE_CODES={
 def decode_char(char)
     return MORSE_CODES[char] unless MORSE_CODES[char].nil?
 end
+
+def decode_word(word)
+    res= ''
+    word.split(' ').each do |c|
+        res=res.concat(decode_char(c))
+    end
+    return res
+end
+
