@@ -1,56 +1,31 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Decode Morse Message
 
-> Description the project.
+> Here a solution for decoding morse message
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo (if available)
+# Get Started
+To get a local copy up and running follow these simple steps.
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```bash
+$ git clone https://github.com/omarsalem7/decode-morse.git
+$ cd decode-morse
+$ bundle install 
+``
 
 ## Authors
 
-👤 **Author1**
+👤 **Omar Salem**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Omar Salem](https://github.com/omarsalem7)
+- Twitter: [Omar Salem](https://twitter.com/Omar80491499)
+- LinkedIn: [Omar Salem](https://www.linkedin.com/in/omar-salem-a6945b177/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
