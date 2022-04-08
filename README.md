@@ -16,7 +16,7 @@ To get a local copy up and running follow these simple steps.
 $ git clone https://github.com/omarsalem7/decode-morse.git
 $ cd decode-morse
 $ bundle install 
-``
+```
 
 ## Authors
 
